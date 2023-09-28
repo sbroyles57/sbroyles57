@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sbroyles57
+- 👀 I’m interested in webapp development, user interfaces, Solidworks, & 3D animation.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: scott_broyles @ wsu.edu
